@@ -21,11 +21,17 @@ Offers detailed breakdowns of loan metrics across dimensions such as product cat
 ## **Key Metrics and Calculations**
 
 A)Total Loan Requested: Sum of all loan amounts requested.
+
 B)Total Sanctioned Amount: Sum of all loan amounts sanctioned.
+
 C)Total Disbursed Amount: Sum of all loan amounts disbursed.
+
 D)Average Loan Processing Time: Average number of days taken to process loans.
+
 E)Loan Approval Rate: Ratio of sanctioned loans to total loan requests.
+
 F)Average Loan Tenure: Average duration of loans in days.
+
 G)Disbursement ROI: Average rate of interest on disbursed loans, calculated by product category.
 
 ## **Features**
